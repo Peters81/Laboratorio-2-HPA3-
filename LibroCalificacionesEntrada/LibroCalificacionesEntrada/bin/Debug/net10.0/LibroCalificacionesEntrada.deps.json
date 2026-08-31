@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "LibroCalificacionesEntrada/1.0.0": {
+        "runtime": {
+          "LibroCalificacionesEntrada.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LibroCalificacionesEntrada/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

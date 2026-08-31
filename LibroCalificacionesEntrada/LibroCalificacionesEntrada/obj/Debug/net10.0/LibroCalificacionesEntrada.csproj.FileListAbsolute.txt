@@ -1,0 +1,15 @@
+C:\Users\Cristell\Desktop\lab 2 hpa3\LibroCalificacionesEntrada\LibroCalificacionesEntrada\obj\Debug\net10.0\LibroCalificacionesEntrada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristell\Desktop\lab 2 hpa3\LibroCalificacionesEntrada\LibroCalificacionesEntrada\obj\Debug\net10.0\LibroCalificacionesEntrada.AssemblyInfoInputs.cache
+C:\Users\Cristell\Desktop\lab 2 hpa3\LibroCalificacionesEntrada\LibroCalificacionesEntrada\obj\Debug\net10.0\LibroCalificacionesEntrada.AssemblyInfo.cs
+C:\Users\Cristell\Desktop\lab 2 hpa3\LibroCalificacionesEntrada\LibroCalificacionesEntrada\obj\Debug\net10.0\LibroCalificacionesEntrada.csproj.CoreCompileInputs.cache
+C:\Users\Cristell\Desktop\lab 2 hpa3\LibroCalificacionesEntrada\LibroCalificacionesEntrada\bin\Debug\net10.0\LibroCalificacionesEntrada.exe
+C:\Users\Cristell\Desktop\lab 2 hpa3\LibroCalificacionesEntrada\LibroCalificacionesEntrada\bin\Debug\net10.0\LibroCalificacionesEntrada.deps.json
+C:\Users\Cristell\Desktop\lab 2 hpa3\LibroCalificacionesEntrada\LibroCalificacionesEntrada\bin\Debug\net10.0\LibroCalificacionesEntrada.runtimeconfig.json
+C:\Users\Cristell\Desktop\lab 2 hpa3\LibroCalificacionesEntrada\LibroCalificacionesEntrada\bin\Debug\net10.0\LibroCalificacionesEntrada.dll
+C:\Users\Cristell\Desktop\lab 2 hpa3\LibroCalificacionesEntrada\LibroCalificacionesEntrada\bin\Debug\net10.0\LibroCalificacionesEntrada.pdb
+C:\Users\Cristell\Desktop\lab 2 hpa3\LibroCalificacionesEntrada\LibroCalificacionesEntrada\obj\Debug\net10.0\LibroCalificacionesEntrada.dll
+C:\Users\Cristell\Desktop\lab 2 hpa3\LibroCalificacionesEntrada\LibroCalificacionesEntrada\obj\Debug\net10.0\refint\LibroCalificacionesEntrada.dll
+C:\Users\Cristell\Desktop\lab 2 hpa3\LibroCalificacionesEntrada\LibroCalificacionesEntrada\obj\Debug\net10.0\LibroCalificacionesEntrada.pdb
+C:\Users\Cristell\Desktop\lab 2 hpa3\LibroCalificacionesEntrada\LibroCalificacionesEntrada\obj\Debug\net10.0\LibroCalificacionesEntrada.genruntimeconfig.cache
+C:\Users\Cristell\Desktop\lab 2 hpa3\LibroCalificacionesEntrada\LibroCalificacionesEntrada\obj\Debug\net10.0\ref\LibroCalificacionesEntrada.dll
+C:\Users\Cristell\Desktop\lab 2 hpa3\LibroCalificacionesEntrada\LibroCalificacionesEntrada\obj\Debug\net10.0\LibroCal.4E2BE2A8.Up2Date
