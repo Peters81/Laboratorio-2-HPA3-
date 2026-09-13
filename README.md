@@ -107,7 +107,7 @@ También se trabajó la creación de una clase formal desde Visual Studio y la i
 
 ### Evidencia
 
-![Actividad 1 - Clase LibroCalificaciones](./imagenes/actividad1.png)
+![Actividad 1 - Clase LibroCalificaciones](./imagenes/lab2problema1.png)
 
 ---
 
@@ -135,7 +135,7 @@ También se trabajó el uso de `{0}` como marcador de posición para insertar va
 
 ### Evidencia
 
-![Actividad 2 - Método con parámetro](./imagenes/actividad2.png)
+![Actividad 2 - Método con parámetro](./imagenes/lab2problema2.png)
 
 ---
 
@@ -168,5 +168,5 @@ El descriptor `get` permite obtener el valor de una variable de instancia, mient
 
 ### Evidencia
 
-![Actividad 3 - Variables de instancia y propiedades](./imagenes/actividad3.png)
+![Actividad 3 - Variables de instancia y propiedades](./imagenes/lab2problema3.png)
 
